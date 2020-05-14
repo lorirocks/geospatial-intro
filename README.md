@@ -19,6 +19,10 @@ conda activate geospatial
 jupyter notebook
 ```
 
+to stop using the geospatial environment
+```
+conda deactivate
+```
 #### Introduction slide deck and notebooks covers 
  - importance of location to some kinds of analysis
  - `geopandas` GeoDataFrames
