@@ -16,7 +16,7 @@ Once this has been created for you, you can then use it within Anaconda Navigato
 For example, to open a new session with jupyter, you could then run: 
 ```
 conda activate geospatial
-jupyter-notebook
+jupyter notebook
 ```
 
 #### Introduction slide deck and notebooks covers 
